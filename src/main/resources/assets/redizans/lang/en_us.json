@@ -1,12 +1,15 @@
 {
   "item.redizans.ruby": "Ruby",
   "item.redizans.trumpet": "Trumpet",
+  "item.redizans.violum": "Violum",
 
 
-  "block.redizans.ruby_ore": "ruby ore",
-  "block.redizans.deepslate_ruby_ore": "deepslate ruby ore",
+  "block.redizans.ruby_ore": "Ruby ore",
+  "block.redizans.deepslate_ruby_ore": "Deepslate ruby ore",
+  "block.redizans.violum_ore": "Violum ore",
 
-  "itemGroup.redizans": "redizans"
+
+  "itemGroup.redizans": "Redizans"
 
 
 

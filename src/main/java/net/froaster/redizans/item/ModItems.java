@@ -16,7 +16,7 @@ public static final DeferredRegister<Item> ITEMS =
 
 public static final RegistryObject<Item> Ruby = ITEMS.register( "ruby", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.REDIZANS_TAB)));
     public static final RegistryObject<Item> Trumpet = ITEMS.register( "trumpet", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.REDIZANS_TAB)));
-
+    public static final RegistryObject<Item> Violum = ITEMS.register( "violum", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.REDIZANS_TAB)));
 
 
 

@@ -28,6 +28,10 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> RUBY_ORE = registerBlock("ruby_ore",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+
+                    .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.REDIZANS_TAB);
+    public static final RegistryObject<Block> VİOLUM_ORE = registerBlock("violum_ore",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.REDIZANS_TAB);
 
 
