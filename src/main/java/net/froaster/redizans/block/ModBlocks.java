@@ -30,7 +30,7 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
 
                     .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.REDIZANS_TAB);
-    public static final RegistryObject<Block> VİOLUM_ORE = registerBlock("violum_ore",
+    public static final RegistryObject<Block> VIOLUM_ORE = registerBlock("violum_ore",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.REDIZANS_TAB);
 
